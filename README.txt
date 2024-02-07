@@ -1,4 +1,2 @@
-#!HOLA MUNDO!
-Este es un readme para mi primer git
-intento 2
-intento 3
+#HOLA MUNDO!
+ESTE ES UN README PARA MI PRIMER GIT
